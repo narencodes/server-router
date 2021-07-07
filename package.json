@@ -1,0 +1,28 @@
+{
+  "name": "@naren_codes/server-router",
+  "version": "1.0.1",
+  "description": "Package to describe api routes on express-nodejs in a easy way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narcotic1998/server-router.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "router"
+  ],
+  "author": "narenderen.t",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narcotic1998/server-router/issues"
+  },
+  "homepage": "https://github.com/narcotic1998/server-router#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-static-gzip": "^2.1.1"
+  }
+}
